@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586053873557.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3203047912",
+    "id" : "B20EF3C5",
+    "lastKnownWriteTime" : 1586053902,
+    "last_content_update" : 1586053902439,
+    "path" : "C:/Users/Swarnagowri/Desktop/Coursera R/add to VC/1.R",
+    "project_path" : "1.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
